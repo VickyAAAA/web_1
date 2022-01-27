@@ -36,7 +36,7 @@
                 >
                 <caption><font size = "5"><font color="green"><center><b>商品一覽表</b></center></font></font></caption>
                 <tr bgcolor = "	#8C8C00" height = "50">
-                    <th width = "10%">商品</th>
+                    <th width = "10%">類型</th>
                     <th colspan = "90%">請點圖看詳細商品</th>
                 </tr>
                 <tr><!--表頭-->
